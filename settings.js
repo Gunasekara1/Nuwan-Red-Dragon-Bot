@@ -11,7 +11,10 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I Am Red Dragon Bot
+🗼Create By Anushka Nuwan
+🖲️I Am Alive Now
+⛩️You Can Use Me🤭
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,11 +32,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['+94766588513'] // owner number
+global.ownername = "༆𝐀𝐍𝐔𝐒𝐇𝐊𝐀༒𝐍𝐔𝐖𝐀𝐍࿐" // owner name
+global.ytname = "Nuwan Priyantha 01" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Sri Lanka, Kandy, Wattegama" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +50,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94766588513']
+global.ownertag = '+94766588513' //your tag number
+global.botname = '༆𝐑𝐄𝐃༒𝐃𝐑𝐀𝐆𝐎𝐍༒𝐁𝐎𝐓࿐' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94766588513'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
